@@ -1,0 +1,5 @@
+if game.GameId == "9508087919" then
+if syn then
+    print("Funni")
+    end
+end
